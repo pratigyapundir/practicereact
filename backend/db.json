@@ -1,0 +1,385 @@
+{
+  "emp": [
+    {
+      "id": "1",
+      "fullname": "Aman Sharma",
+      "email": "aman@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "fullname": "Rahul Kumar",
+      "email": "rahul@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "3",
+      "fullname": "Priya Singh",
+      "email": "priya@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "4",
+      "fullname": "Rohan Verma",
+      "email": "rohan@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "5",
+      "fullname": "Neha Gupta",
+      "email": "neha@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "6",
+      "fullname": "Arjun Mehta",
+      "email": "arjun@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "7",
+      "fullname": "Sneha Patel",
+      "email": "sneha@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "8",
+      "fullname": "Vikram Singh",
+      "email": "vikram@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "9",
+      "fullname": "Pooja Sharma",
+      "email": "pooja@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "10",
+      "fullname": "Karan Malhotra",
+      "email": "karan@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "11",
+      "fullname": "Anjali Verma",
+      "email": "anjali@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "12",
+      "fullname": "Sahil Khan",
+      "email": "sahil@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "13",
+      "fullname": "Riya Kapoor",
+      "email": "riya@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "14",
+      "fullname": "Aditya Joshi",
+      "email": "aditya@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "15",
+      "fullname": "Simran Kaur",
+      "email": "simran@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "16",
+      "fullname": "Ravi Yadav",
+      "email": "ravi@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "17",
+      "fullname": "Kavita Roy",
+      "email": "kavita@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "18",
+      "fullname": "Mohit Jain",
+      "email": "mohit@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "19",
+      "fullname": "Nisha Agarwal",
+      "email": "nisha@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "20",
+      "fullname": "Deepak Gupta",
+      "email": "deepak@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "21",
+      "fullname": "Ayesha Khan",
+      "email": "ayesha@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "22",
+      "fullname": "Harsh Sharma",
+      "email": "harsh@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "23",
+      "fullname": "Meera Joshi",
+      "email": "meera@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "24",
+      "fullname": "Varun Arora",
+      "email": "varun@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "25",
+      "fullname": "Isha Sharma",
+      "email": "isha@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "26",
+      "fullname": "Manish Kumar",
+      "email": "manish@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "27",
+      "fullname": "Tanya Singh",
+      "email": "tanya@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "28",
+      "fullname": "Rakesh Patel",
+      "email": "rakesh@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "29",
+      "fullname": "Muskan Gupta",
+      "email": "muskan@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "30",
+      "fullname": "Ankit Verma",
+      "email": "ankit@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "31",
+      "fullname": "Divya Jain",
+      "email": "divya@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "32",
+      "fullname": "Suresh Kumar",
+      "email": "suresh@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "33",
+      "fullname": "Komal Sharma",
+      "email": "komal@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "34",
+      "fullname": "Nikhil Singh",
+      "email": "nikhil@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "35",
+      "fullname": "Sakshi Gupta",
+      "email": "sakshi@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "36",
+      "fullname": "Ajay Kumar",
+      "email": "ajay@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "37",
+      "fullname": "Payal Sharma",
+      "email": "payal@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "38",
+      "fullname": "Rohit Verma",
+      "email": "rohit@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "39",
+      "fullname": "Bhavna Patel",
+      "email": "bhavna@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "40",
+      "fullname": "Akash Yadav",
+      "email": "akash@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "41",
+      "fullname": "Anita Singh",
+      "email": "anita@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "42",
+      "fullname": "Vivek Sharma",
+      "email": "vivek@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "43",
+      "fullname": "Shreya Kapoor",
+      "email": "shreya@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "44",
+      "fullname": "Gaurav Mehta",
+      "email": "gaurav@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "45",
+      "fullname": "Nidhi Verma",
+      "email": "nidhi@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "46",
+      "fullname": "Sumit Kumar",
+      "email": "sumit@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "47",
+      "fullname": "Preeti Sharma",
+      "email": "preeti@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "48",
+      "fullname": "Raj Malhotra",
+      "email": "raj@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    },
+    {
+      "id": "49",
+      "fullname": "Kriti Singh",
+      "email": "kriti@gmail.com",
+      "password": "123456",
+      "gender": "Female"
+    },
+    {
+      "id": "50",
+      "fullname": "Yash Gupta",
+      "email": "yash@gmail.com",
+      "password": "123456",
+      "gender": "Male"
+    }
+  ],
+  "user": [
+    {
+      "id": "yXfWl1yZ4Is",
+      "user": "priya",
+      "email": "priya@gmail.com",
+      "password": "1234",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "XwndCuryWMY",
+      "user": "hey",
+      "email": "hey@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "E0Fjna6S8gc",
+      "user": "hel",
+      "email": "hello@gail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "SFFBXtOJZ_E",
+      "user": "hello",
+      "email": "hey@gmail.com",
+      "password": "12345",
+      "confirmPassword": "1234"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
